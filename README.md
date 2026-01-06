@@ -16,10 +16,10 @@
 
 ОТВЕТ1
 создание вм :
-![alt text]( create_vm.png
-connect_vm.png
-docker_version.png
-billing_vm.png
+![alt text](https://github.com/lyalov/virt-01-basics/blob/main/create_vm.png)
+![alt text](https://github.com/lyalov/virt-01-basics/blob/main/connect_vm.png)
+![alt text](https://github.com/lyalov/virt-01-basics/blob/main/docker_version.png)
+![alt text](https://github.com/lyalov/virt-01-basics/blob/main/billing_vm.png)
 
 Инструмены
 Docker
@@ -252,3 +252,4 @@ ELK-стек или Splunk для централизованных логов.
 чёткой архитектурной стратегии, автоматизации, квалифицированного персонала.
 
 Идеал — единая платформа. Реальность — иногда приходится идти на компромиссы. Но компромиссы должны быть управляемыми.
+
